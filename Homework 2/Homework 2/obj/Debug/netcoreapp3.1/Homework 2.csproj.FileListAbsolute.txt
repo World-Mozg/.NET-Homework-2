@@ -1,0 +1,13 @@
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.exe
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.deps.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.runtimeconfig.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.runtimeconfig.dev.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.dll
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\bin\Debug\netcoreapp3.1\Homework 2.pdb
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.csprojAssemblyReference.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.AssemblyInfoInputs.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.AssemblyInfo.cs
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.csproj.CoreCompileInputs.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.dll
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.pdb
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Homework 2\Homework 2\obj\Debug\netcoreapp3.1\Homework 2.genruntimeconfig.cache
