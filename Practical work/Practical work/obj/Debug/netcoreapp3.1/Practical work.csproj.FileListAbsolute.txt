@@ -1,0 +1,13 @@
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.exe
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.deps.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.runtimeconfig.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.runtimeconfig.dev.json
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.dll
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\bin\Debug\netcoreapp3.1\Practical work.pdb
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.csprojAssemblyReference.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.AssemblyInfoInputs.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.AssemblyInfo.cs
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.csproj.CoreCompileInputs.cache
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.dll
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.pdb
+E:\ШАГ\Microsoft .NET и язык программирования C#\Дз\2\Practical work\Practical work\obj\Debug\netcoreapp3.1\Practical work.genruntimeconfig.cache
